@@ -1,0 +1,13 @@
+D:\New folder\monoronjon\monoronjon\bin\Debug\netcoreapp3.1\monoronjon.exe
+D:\New folder\monoronjon\monoronjon\bin\Debug\netcoreapp3.1\monoronjon.deps.json
+D:\New folder\monoronjon\monoronjon\bin\Debug\netcoreapp3.1\monoronjon.runtimeconfig.json
+D:\New folder\monoronjon\monoronjon\bin\Debug\netcoreapp3.1\monoronjon.runtimeconfig.dev.json
+D:\New folder\monoronjon\monoronjon\bin\Debug\netcoreapp3.1\monoronjon.dll
+D:\New folder\monoronjon\monoronjon\bin\Debug\netcoreapp3.1\monoronjon.pdb
+D:\New folder\monoronjon\monoronjon\obj\Debug\netcoreapp3.1\monoronjon.csprojAssemblyReference.cache
+D:\New folder\monoronjon\monoronjon\obj\Debug\netcoreapp3.1\monoronjon.AssemblyInfoInputs.cache
+D:\New folder\monoronjon\monoronjon\obj\Debug\netcoreapp3.1\monoronjon.AssemblyInfo.cs
+D:\New folder\monoronjon\monoronjon\obj\Debug\netcoreapp3.1\monoronjon.csproj.CoreCompileInputs.cache
+D:\New folder\monoronjon\monoronjon\obj\Debug\netcoreapp3.1\monoronjon.dll
+D:\New folder\monoronjon\monoronjon\obj\Debug\netcoreapp3.1\monoronjon.pdb
+D:\New folder\monoronjon\monoronjon\obj\Debug\netcoreapp3.1\monoronjon.genruntimeconfig.cache
